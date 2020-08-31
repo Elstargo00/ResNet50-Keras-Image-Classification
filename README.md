@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+# THIS IS A COPY GITN REPOSITORY. NOT MINE. USE AS MATERIALS IN THE MACHINE LEARNING WORKSHOP.
+
 # ResNet50-Keras-Image-Classification
 ResNet50-Keras-Image Classification
 =======
