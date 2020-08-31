@@ -1,7 +1,6 @@
 # THIS IS A COPY GIT REPOSITORY. NOT MINE. USE AS MATERIALS IN THE MACHINE LEARNING WORKSHOP.
 
-# ResNet50-Keras-Image-Classification
-ResNet50-Keras-Image Classification
+
 =======
 # Deploy Keras Model with Flask as Web App in 10 Minutes
 
